@@ -22,3 +22,5 @@ The Arduino program expects NMEA GGA messages from mosaicHAT serial (COM2). To c
 - Now a popup message will ask if you would like to save the **current configuration as a boot configuration**. Choose Save.
 
 ## Check the project on Instructables
+
+All steps of making the project are available on instructables! Check: 
