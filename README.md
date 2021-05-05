@@ -23,4 +23,6 @@ The Arduino program expects NMEA GGA messages from mosaicHAT serial (COM2). To c
 
 ## Check the project on Instructables
 
+<img src="doc/instructables-logo.png" width="60%">
+
 All steps of making the project are available on instructables! Check: (https://www.instructables.com/Building-a-GNSS-Receiver-Using-MosaicHAT-and-Ardui/)
